@@ -1,4 +1,5 @@
 # Multi-scenario Overlapping Text Segmentation with Depth Awareness
+<<<<<<< HEAD
 
 Official PyTorch implementation of the ICCV paper "Overlapping Text Segmentation and Recognition". This codebase is built on top of the [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) framework.
 
@@ -85,3 +86,6 @@ Please cite the following paper when using the MOT dataset or this repo.
 
 ## Acknowledgement
 This repo is based on [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We appreciate this wonderful open-source toolbox.
+=======
+Coming soon.
+>>>>>>> 39cc9db36b048bd9e606dee3d55706cf247b4b29
